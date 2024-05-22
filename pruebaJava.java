@@ -7,4 +7,6 @@ public class pruebaJava {
 
     public void commitAnderson(){
         System.out.printf("commit de Anderson"); }
+    public void commitAbigail{
+        System.out.printf("commit de Abigail"); }
 }
